@@ -30,4 +30,7 @@ I'm a 16 years old student living in Germany 🎓. I'm a passionate learner who'
 ### Worktime
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
