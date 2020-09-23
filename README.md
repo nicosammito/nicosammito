@@ -31,6 +31,6 @@ I'm a 16 years old student living in Germany 🎓. I'm a passionate learner who'
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+PHP   42 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
