@@ -17,17 +17,17 @@ I'm a 16 years old student living in Germany 🎓. I'm a passionate learner who'
 
 ### More about me...
 
-- 🔭 I’m currently working on MariaDB, Java, PHP, SQL / MYSQL, Symphony etc 💻.
+- 🔭 I’m currently working with MariaDB, Java, PHP, SQL / MYSQL, Symphony etc 💻.
 - 🌱 I’m currently learning Symphony 🚀.
 - 📫 How to reach me: nico@sammito.de | [Instagram](https://instagram.com/nico_sammito)
-- 💻 I have worked on Java, HTML/CSS, Javascript, Nodejs, MySQL, MariaDB, Git, etc.
+- 💻 I have worked with HTML/CSS, Javascript, Nodejs, NoSQL, Flutter, Dart, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
 
-### Github Stats!
+### Github Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nicosammito&show_icons=true&hide_border=true&count_private=true)
 
-### Worktime
+### My Week
 
 <!--START_SECTION:waka-->
 ```text
