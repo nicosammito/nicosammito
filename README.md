@@ -19,7 +19,6 @@ I'm a 16 years old student living in Germany. I'm a passionate learner who's alw
 <img src="https://img.shields.io/badge/-mysql-blue?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/-DART-blue?style=for-the-badge&logo=dart&logoColor=white"/>
 
 <br><br>
-
 ⚡ **All Projects**
 
 - Theintro-designs.com [ `Leading Developer & Owner` ]
