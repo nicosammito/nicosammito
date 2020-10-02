@@ -15,15 +15,14 @@ I'm a 16 years old student living in Germany. I'm a passionate learner who's alw
 ✨ **Languages / Frameworks**
 
 <img src="https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/-Javascript-blue?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/-jQuery-blue?style=for-the-badge&logo=Jquery&logoColor=white"/> <img src="https://img.shields.io/badge/-Bootstrap-blue?style=for-the-badge&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/-symphony-blue?style=for-the-badge&logo=symphony&logoColor=white"/> <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/-jQuery-blue?style=for-the-badge&logo=Jquery&logoColor=white"/> <img src="https://img.shields.io/badge/-Bootstrap-blue?style=for-the-badge&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/-symphony-blue?style=for-the-badge&logo=symphony&logoColor=white"/> <img src="https://img.shields.io/badge/-Vue.JS-blue?style=for-the-badge&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/-mysql-blue?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/-DART-blue?style=for-the-badge&logo=dart&logoColor=white"/>
 
 <br><br>
 ✨ **All Projects**
 
 - Theintro-designs.com [ `Leading Developer & Owner` ]
-- Minepixel.net [ ``Developer`` ]
-- Hamibot [ ``Leading PHP Developer & Owner`` ]
+- Hamibot [ `Leading PHP Developer & Owner` ]
 
 <br>
 
