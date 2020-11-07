@@ -36,10 +36,10 @@ I'm a 16 years old student living in Germany. I'm a passionate learner who's alw
 
 <!--START_SECTION:waka-->
 ```text
-Java            2 hrs 22 mins   ███████████▒░░░░░░░░░░░░░   45.97 % 
-PHP             1 hr 54 mins    █████████▒░░░░░░░░░░░░░░░   37.04 % 
-Apache Config   21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-XML             18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-Git Config      7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Java            6 hrs 59 mins   █████████████████▓░░░░░░░   70.14 % 
+PHP             1 hr 55 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.33 % 
+Apache Config   21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+XML             18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Git Config      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 ```
 <!--END_SECTION:waka-->
