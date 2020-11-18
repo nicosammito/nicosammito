@@ -23,6 +23,8 @@ I'm a 16 years old student living in Germany. I'm a passionate learner who's alw
 
 - Theintro-designs.com [ `Leading Developer & Owner` ]
 - Hamibot [ `Leading PHP Developer & Owner` ]
+- 42Crew Website [ `Leading Developer` ]
+- Traidio.net [ `Java Developer` ]
 
 <br>
 
