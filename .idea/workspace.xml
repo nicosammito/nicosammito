@@ -43,6 +43,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="discord-project" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -55,7 +56,9 @@
       <updated>1601495444236</updated>
       <workItem from="1601495445685" duration="2728000" />
       <workItem from="1601680063607" duration="156000" />
-      <workItem from="1601740294610" duration="402000" />
+      <workItem from="1601740294610" duration="633000" />
+      <workItem from="1601837223012" duration="54000" />
+      <workItem from="1607989632221" duration="314000" />
     </task>
     <servers />
   </component>
@@ -75,9 +78,17 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="59" y="0" key="SettingsEditor" timestamp="1601741198912">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="59" y="0" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1601741198912" />
     <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1601680183905">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1601680183905" />
+    <state x="526" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607989643920">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="526" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1607989643920" />
   </component>
 </project>

@@ -2,7 +2,7 @@
 
 ✨ **Glad to see you here**
 
-I'm a 16 years old student living in Germany. I'm a passionate learner who's always willing to learn and work across programming. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies. I'm currently into Web & Java Development.
+I'm a 16 years old student living in Germany. I'm a passionate learner who's always willing to learn and work across programming. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies. I'm currently into Web & App development. I mainly develop in HTML, CSS, JS, PHP, Dart and Flutter.
 
 <br>
 
@@ -15,8 +15,8 @@ I'm a 16 years old student living in Germany. I'm a passionate learner who's alw
 ✨ **Languages / Frameworks**
 
 <img src="https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/-Javascript-blue?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/-jQuery-blue?style=for-the-badge&logo=Jquery&logoColor=white"/> <img src="https://img.shields.io/badge/-Bootstrap-blue?style=for-the-badge&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/-symphony-blue?style=for-the-badge&logo=symfony&logoColor=white"/> <img src="https://img.shields.io/badge/-Vue.JS-blue?style=for-the-badge&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/-mysql-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/-jQuery-blue?style=for-the-badge&logo=Jquery&logoColor=white"/> <img src="https://img.shields.io/badge/-Bootstrap-blue?style=for-the-badge&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/-MongoDB-blue?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/-Node.JS-blue?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/-mysql-blue?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-Dart-blue?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white"/>
 
 <br><br>
 ✨ **All Projects**
