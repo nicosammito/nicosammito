@@ -45,3 +45,12 @@ Java    13 mins         ▒░░░░░░░░░░░░░░░░░�
 HTML    11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 ```
 <!--END_SECTION:waka-->
+<br>
+
+✨ **All Time Stats**
+
+<img src="https://wakatime.com/share/@nicosammito/4984167c-0625-448c-8bcc-364fcf1f7738.png" />
+<br>
+<br>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@nicosammito/a0de7b05-b414-46c7-9769-84005addaa27.png" /></a>
+
