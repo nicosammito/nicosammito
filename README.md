@@ -50,7 +50,7 @@ HTML    11 mins         ▒░░░░░░░░░░░░░░░░░�
 ✨ **All Time Stats**
 
 <div>
-<img height="250" src="https://wakatime.com/share/@nicosammito/4984167c-0625-448c-8bcc-364fcf1f7738.png" />
+<img height="300" src="https://wakatime.com/share/@nicosammito/4984167c-0625-448c-8bcc-364fcf1f7738.png" />
 
-<img height="250" src="https://wakatime.com/share/@nicosammito/a0de7b05-b414-46c7-9769-84005addaa27.png" />
+<img height="300" src="https://wakatime.com/share/@nicosammito/a0de7b05-b414-46c7-9769-84005addaa27.png" />
 </div>
