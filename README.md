@@ -30,7 +30,7 @@ I'm a 16 years old student living in Germany. I'm a passionate learner who's alw
 
 ✨ **Github Stats**
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=nicosammito&show_icons=true&hide_border=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=nicosammito&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
 <br>
 
