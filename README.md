@@ -38,11 +38,11 @@ I'm a 16 years old student living in Germany. I'm a passionate learner who's alw
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   10 hrs 33 mins  █████████░░░░░░░░░░░░░░░░   36.12 % 
-TypeScript   8 hrs 25 mins   ███████▒░░░░░░░░░░░░░░░░░   28.81 % 
-HTML         4 hrs 20 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Java         4 hrs 13 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-JSON         1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+JavaScript   10 hrs 33 mins  ███████████░░░░░░░░░░░░░░   43.73 % 
+Java         5 hrs 48 mins   ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+HTML         4 hrs 20 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.97 % 
+TypeScript   2 hrs 25 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+JSON         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 ```
 <!--END_SECTION:waka-->
 <br>
