@@ -38,7 +38,8 @@ I'm a 16 years old student living in Germany. I'm a passionate learner who's alw
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+CSS          9 mins          █████████████████████▒░░░   85.97 % 
+JavaScript   1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 % 
 ```
 <!--END_SECTION:waka-->
 <br>
