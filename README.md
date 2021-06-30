@@ -17,13 +17,13 @@ and Flutter.
 
 ✨ **Languages**
 
-<img src="https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/-Javascript-blue?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/-Go-purple?style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/-C Sharp-purple?style=for-the-badge&logo=C Sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/-Javascript-blue?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/-Go-purple?style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/-CSharp-purple?style=for-the-badge&logo=CSharp&logoColor=white"/>
 
 <br />
 
 ✨ **Frameworks / Libraries / Others**
 
-<img src="https://img.shields.io/badge/-Bootstrap-blue?style=for-the-badge&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/-Node.JS-blue?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/-JSON Web Tokens-blue?style=for-the-badge&logo=JSON Web Tokens&logoColor=white"/> <img src="https://img.shields.io/badge/-Chakra UI-blue?style=for-the-badge&logo=Chakra UI&logoColor=white"/> <img src="https://img.shields.io/badge/-Express-blue?style=for-the-badge&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/-Spring-purple?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/-Grafana-purple?style=for-the-badge&logo=Grafana&logoColor=white"/> <img src="https://img.shields.io/badge/-Prometheus-purple?style=for-the-badge&logo=Prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/-RabbitMQ-purple?style=for-the-badge&logo=RabbitMQ&logoColor=white"/> <img src="https://img.shields.io/badge/-Apache Kafka-purple?style=for-the-badge&logo=Apache Kafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Bootstrap-blue?style=for-the-badge&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/-Node.JS-blue?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/-JSON%20Web%20Tokens-blue?style=for-the-badge&logo=JSONWebTokens&logoColor=white"/> <img src="https://img.shields.io/badge/-Chakra%20UI-blue?style=for-the-badge&logo=ChakraUI&logoColor=white"/> <img src="https://img.shields.io/badge/-Express-blue?style=for-the-badge&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/-Spring-purple?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/-Grafana-purple?style=for-the-badge&logo=Grafana&logoColor=white"/> <img src="https://img.shields.io/badge/-Prometheus-purple?style=for-the-badge&logo=Prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/-RabbitMQ-purple?style=for-the-badge&logo=RabbitMQ&logoColor=white"/> <img src="https://img.shields.io/badge/-Apache%20Kafka-purple?style=for-the-badge&logo=ApacheKafka&logoColor=white"/>
 
 <br />
 
@@ -34,7 +34,6 @@ and Flutter.
 <br>
 
 <img src="https://img.shields.io/badge/-Blue = already learned-blue?style=for-the-badge"/>
-<br/>
 <img src="https://img.shields.io/badge/-Purple = Learning-purple?style=for-the-badge"/>
 
 <br><br>
