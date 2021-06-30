@@ -12,19 +12,56 @@ I'm a 16 years old student living in Germany. I'm a passionate learner who's alw
 
 <br />
 
-✨ **Languages / Frameworks**
+✨ **Languages**
 
-<img src="https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/-Javascript-blue?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/-jQuery-blue?style=for-the-badge&logo=Jquery&logoColor=white"/> <img src="https://img.shields.io/badge/-Bootstrap-blue?style=for-the-badge&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/-MongoDB-blue?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/-Node.JS-blue?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/-mysql-blue?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-Dart-blue?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=PHP&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-Javascript-blue?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Go-purple?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C Sharp-purple?style=for-the-badge&logo=C Sharp&logoColor=white"/>
+
+<br />
+
+✨ **Frameworks / Libraries / Others**
+
+<img src="https://img.shields.io/badge/-Bootstrap-blue?style=for-the-badge&logo=Bootstrap&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-Node.JS-blue?style=for-the-badge&logo=node.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JSON Web Tokens-blue?style=for-the-badge&logo=JSON Web Tokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Chakra UI-blue?style=for-the-badge&logo=Chakra UI&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Express-blue?style=for-the-badge&logo=Express&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Spring-purple?style=for-the-badge&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Grafana-purple?style=for-the-badge&logo=Grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Prometheus-purple?style=for-the-badge&logo=Prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/-RabbitMQ-purple?style=for-the-badge&logo=RabbitMQ&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Apache Kafka-purple?style=for-the-badge&logo=Apache Kafka&logoColor=white"/>
+
+<br />
+
+✨ **Databases**
+
+<img src="https://img.shields.io/badge/-MongoDB-blue?style=for-the-badge&logo=mongodb&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-MariaDB-blue?style=for-the-badge&logo=MariaDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-purple?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/-Blue = already learned-blue?style=for-the-badge"/>
+<br/>
+<img src="https://img.shields.io/badge/-Purple = Learning-purple?style=for-the-badge"/>
 
 <br><br>
 ✨ **All Projects**
 
-- Theintro-designs.com [ `Leading Developer & Owner` ]
-- Hamibot [ `Leading PHP Developer & Owner` ]
-- 42Crew Website [ `Leading Developer` ]
-- Traidio.net [ `Java Developer` ]
+- <s>Theintro-Designs [ `Leading Developer & Owner` ]</s>
+- <s>Hamibot [ `Leading PHP Developer & Owner` ]</s>
+- <s>42Crew Website [ `Leading Developer` ]</s>
+- <s>Traidio.net [ `Java Developer` ]</s>
+- notABot [`Frontend Developer`]
+- TemplateFactory [`Frontend Developer & Owner`]
+- HiveriaNet [`Frontend & Backend Developer`]
 
 <br>
 
