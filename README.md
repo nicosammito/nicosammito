@@ -58,7 +58,6 @@ and Flutter.
 ✨ **My Week**
 
 <!--START_SECTION:waka-->
-
 ```text
 JavaScript   8 hrs 29 mins   █████████████████████▓░░░   86.73 % 
 JSON         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
@@ -66,7 +65,6 @@ PHP          21 mins         █░░░░░░░░░░░░░░░░
 HTML         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 CSS          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ```
-
 <!--END_SECTION:waka-->
 <br>
 
