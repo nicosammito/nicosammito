@@ -52,9 +52,7 @@ and Flutter.
 
 ✨ **Certificates**
 
-<img src="https://www.sololearn.com/certificates/course/en/11454731/1068/landscape/png" width="300" style="border-radius: 10px"/>
-<img src="https://www.sololearn.com/Certificate/1097-11454731/jpg/" width="300" style="border-radius: 10px"/>
-<img src="https://www.sololearn.com/Certificate/1162-11454731/jpg/" width="300" style="border-radius: 10px"/>
+<img src="https://www.sololearn.com/certificates/course/en/11454731/1068/landscape/png" width="300" style="border-radius: 10px"/> <img src="https://www.sololearn.com/Certificate/1097-11454731/jpg/" width="300" style="border-radius: 10px"/> <img src="https://www.sololearn.com/Certificate/1162-11454731/jpg/" width="300" style="border-radius: 10px"/>
 <br>
 
 ✨ **Github Stats**
