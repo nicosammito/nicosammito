@@ -72,12 +72,3 @@ Markdown     33 mins         █░░░░░░░░░░░░░░░░
 JSON         32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 ```
 <!--END_SECTION:waka-->
-<br>
-
-✨ **All Time Stats**
-
-<div>
-<img height="300" src="https://wakatime.com/share/@nicosammito/4984167c-0625-448c-8bcc-364fcf1f7738.png" />
-
-<img height="300" src="https://wakatime.com/share/@nicosammito/a0de7b05-b414-46c7-9769-84005addaa27.png" />
-</div>
