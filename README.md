@@ -65,9 +65,7 @@ and Flutter.
 
 <!--START_SECTION:waka-->
 ```text
-Java         1 hr 13 mins    █████████████░░░░░░░░░░░░   51.39 % 
-CSS          34 mins         ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-JavaScript   23 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Markdown     10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Java       1 hr 13 mins    █████████████████████▓░░░   87.09 % 
+Markdown   10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 % 
 ```
 <!--END_SECTION:waka-->
