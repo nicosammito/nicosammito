@@ -65,7 +65,6 @@ and Flutter.
 
 <!--START_SECTION:waka-->
 ```text
-Java       1 hr 13 mins    █████████████████████▓░░░   87.09 % 
-Markdown   10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
