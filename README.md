@@ -40,13 +40,11 @@ and Flutter.
 ✨ **All Projects**
 
 - <s>Theintro-Designs [ `Leading Developer & Owner` ]</s>
-- <s>Hamibot [ `Leading PHP Developer & Owner` ]</s>
 - <s>42Crew Website [ `Leading Developer` ]</s>
 - <s>Traidio.net [ `Java Developer` ]</s>
-- notABot [`Frontend Developer`]
-- TemplateFactory [`Frontend Developer & Owner`]
-- HiveriaNet [`Frontend & Backend Developer`]
-- SarfexNet [`Frontend, Backend Developer, DevOps Engineer`]
+- <s>notABot [`Frontend Developer`]</s>
+- <s>TemplateFactory [`Frontend Developer & Owner`]</s>
+- Hamibot [ `Dev Helper` ]
 
 <br>
 
