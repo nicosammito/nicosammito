@@ -17,7 +17,7 @@ and Flutter.
 
 ✨ **Languages**
 
-<img src="https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/-Javascript-blue?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/-Go-purple?style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/-CSharp-purple?style=for-the-badge&logo=CSharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/-Javascript-blue?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/-Typescript-blue?style=for-the-badge&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/-Go-purple?style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/-CSharp-purple?style=for-the-badge&logo=CSharp&logoColor=white"/>
 
 <br />
 
