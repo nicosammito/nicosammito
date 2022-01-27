@@ -63,6 +63,8 @@ My favorite framework regarding Frontend is React in combination with Next.JS an
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+SCSS             3 hrs 23 mins   █████████████░░░░░░░░░░░░   51.95 % 
+TypeScript       3 hrs 4 mins    ███████████▓░░░░░░░░░░░░░   47.13 % 
+CSS              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 ```
 <!--END_SECTION:waka-->
