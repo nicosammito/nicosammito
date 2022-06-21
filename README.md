@@ -17,42 +17,17 @@ My favorite framework regarding Frontend is React in combination with Next.JS an
 
 ✨ **Languages**
 
-<img src="https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white"/> 
-<img src="https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=PHP&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Javascript-blue?style=for-the-badge&logo=javascript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/-Typescript-blue?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=MYSQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Markdown-blue?style=for-the-badge&logo=Markdown&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Sass-blue?style=for-the-badge&logo=Sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JSON-blue?style=for-the-badge&logo=JSON&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Git-blue?style=for-the-badge&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/-Javascript-blue?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/-Typescript-blue?style=for-the-badge&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=MYSQL&logoColor=white"/> <img src="https://img.shields.io/badge/-Markdown-blue?style=for-the-badge&logo=Markdown&logoColor=white"/> <img src="https://img.shields.io/badge/-Sass-blue?style=for-the-badge&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/-JSON-blue?style=for-the-badge&logo=JSON&logoColor=white"/> <img src="https://img.shields.io/badge/-Git-blue?style=for-the-badge&logo=Git&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/-Docker-purple?style=for-the-badge&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Rust-purple?style=for-the-badge&logo=Rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Go-purple?style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/-GraphQL-purple?style=for-the-badge&logo=GraphQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Docker-purple?style=for-the-badge&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/-Rust-purple?style=for-the-badge&logo=Rust&logoColor=white"/> <img src="https://img.shields.io/badge/-Go-purple?style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/-GraphQL-purple?style=for-the-badge&logo=GraphQL&logoColor=white"/>
 
 <br />
 
 ✨ **Frameworks / Libraries / Others**
 
-<img src="https://img.shields.io/badge/-Bootstrap-blue?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Node.JS-blue?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JSON%20Web%20Tokens-blue?style=for-the-badge&logo=JSONWebTokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Express-blue?style=for-the-badge&logo=Express&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Next.Js-blue?style=for-the-badge&logo=Next.Js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Bootstrap-blue?style=for-the-badge&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/-Node.JS-blue?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/-JSON%20Web%20Tokens-blue?style=for-the-badge&logo=JSONWebTokens&logoColor=white"/> <img src="https://img.shields.io/badge/-Express-blue?style=for-the-badge&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/-Next.Js-blue?style=for-the-badge&logo=Next.Js&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/-RabbitMQ-purple?style=for-the-badge&logo=RabbitMQ&logoColor=white"/>
-<img src="https://img.shields.io/badge/-WordPress-purple?style=for-the-badge&logo=WordPress&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Electron-purple?style=for-the-badge&logo=Electron&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Tauri-purple?style=for-the-badge&logo=Tauri&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Vue-purple?style=for-the-badge&logo=Vue.JS&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Nuxt.JS-purple?style=for-the-badge&logo=Nuxt.JS&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Three.js-purple?style=for-the-badge&logo=Three.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Apache%20Kafka-purple?style=for-the-badge&logo=ApacheKafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/-RabbitMQ-purple?style=for-the-badge&logo=RabbitMQ&logoColor=white"/> <img src="https://img.shields.io/badge/-WordPress-purple?style=for-the-badge&logo=WordPress&logoColor=white"/> <img src="https://img.shields.io/badge/-Electron-purple?style=for-the-badge&logo=Electron&logoColor=white"/> <img src="https://img.shields.io/badge/-Tauri-purple?style=for-the-badge&logo=Tauri&logoColor=white"/> <img src="https://img.shields.io/badge/-Vue-purple?style=for-the-badge&logo=Vue.JS&logoColor=white"/> <img src="https://img.shields.io/badge/-Nuxt.JS-purple?style=for-the-badge&logo=Nuxt.JS&logoColor=white"/> <img src="https://img.shields.io/badge/-Three.js-purple?style=for-the-badge&logo=Three.js&logoColor=white"/> <img src="https://img.shields.io/badge/-Apache%20Kafka-purple?style=for-the-badge&logo=ApacheKafka&logoColor=white"/>
 
 <br />
 
