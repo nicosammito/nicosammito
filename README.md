@@ -17,19 +17,48 @@ My favorite framework regarding Frontend is React in combination with Next.JS an
 
 ✨ **Languages**
 
-<img src="https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/-Javascript-blue?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/-Typescript-blue?style=for-the-badge&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/-Go-purple?style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/-CSharp-purple?style=for-the-badge&logo=CSharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=PHP&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Javascript-blue?style=for-the-badge&logo=javascript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-Typescript-blue?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=MYSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Markdown-blue?style=for-the-badge&logo=Markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Sass-blue?style=for-the-badge&logo=Sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JSON-blue?style=for-the-badge&logo=JSON&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Git-blue?style=for-the-badge&logo=Git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/-Docker-purple?style=for-the-badge&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Rust-purple?style=for-the-badge&logo=Rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Go-purple?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/-GraphQL-purple?style=for-the-badge&logo=GraphQL&logoColor=white"/>
 
 <br />
 
 ✨ **Frameworks / Libraries / Others**
 
-<img src="https://img.shields.io/badge/-Bootstrap-blue?style=for-the-badge&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/-Node.JS-blue?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/-JSON%20Web%20Tokens-blue?style=for-the-badge&logo=JSONWebTokens&logoColor=white"/> <img src="https://img.shields.io/badge/-Express-blue?style=for-the-badge&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/-Spring-purple?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/-Chakra%20UI-purple?style=for-the-badge&logo=ChakraUI&logoColor=white"/> <img src="https://img.shields.io/badge/-Grafana-purple?style=for-the-badge&logo=Grafana&logoColor=white"/> <img src="https://img.shields.io/badge/-Prometheus-purple?style=for-the-badge&logo=Prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/-RabbitMQ-purple?style=for-the-badge&logo=RabbitMQ&logoColor=white"/> <img src="https://img.shields.io/badge/-Apache%20Kafka-purple?style=for-the-badge&logo=ApacheKafka&logoColor=white"/> <img src="https://img.shields.io/badge/-Next.Js-purple?style=for-the-badge&logo=Next.Js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Bootstrap-blue?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Node.JS-blue?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JSON%20Web%20Tokens-blue?style=for-the-badge&logo=JSONWebTokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Express-blue?style=for-the-badge&logo=Express&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Next.Js-blue?style=for-the-badge&logo=Next.Js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/-RabbitMQ-purple?style=for-the-badge&logo=RabbitMQ&logoColor=white"/>
+<img src="https://img.shields.io/badge/-WordPress-purple?style=for-the-badge&logo=WordPress&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Electron-purple?style=for-the-badge&logo=Electron&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Tauri-purple?style=for-the-badge&logo=Tauri&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Vue-purple?style=for-the-badge&logo=Vue.JS&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Nuxt.JS-purple?style=for-the-badge&logo=Nuxt.JS&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Three.js-purple?style=for-the-badge&logo=Three.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Apache%20Kafka-purple?style=for-the-badge&logo=ApacheKafka&logoColor=white"/>
 
 <br />
 
 ✨ **Databases**
 
-<img src="https://img.shields.io/badge/-MongoDB-blue?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/-MariaDB-blue?style=for-the-badge&logo=MariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/-PostgreSQL-purple?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MongoDB-blue?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/-MariaDB-blue?style=for-the-badge&logo=MariaDB&logoColor=white"/>
 
 <br>
 
@@ -39,12 +68,14 @@ My favorite framework regarding Frontend is React in combination with Next.JS an
 <br><br>
 ✨ **All Projects**
 
-- <s>Theintro-Designs [ `Leading Developer & Owner` ]</s>
-- <s>42Crew Website [ `Leading Developer` ]</s>
+- <s>Theintro-Designs [ `Leading Developer` ]</s>
+- <s>42Crew [ `Leading Developer` ]</s>
 - <s>Traidio.net [ `Java Developer` ]</s>
-- <s>notABot [`Frontend Developer`]</s>
+- <s>Hamibot [ `Leading Frontend Developer` ]</s>
 - <s>TemplateFactory [`Frontend Developer & Owner`]</s>
-- Hamibot [ `Dev Helper` ]
+- <a href="https://notabot.cc">notABot [`Frontend Developer`]</a>
+- Uroria Network [`Frontend & Game Developer`]
+- <a href="https://avdanos.com">AvdanOS [`Frontend Developer`]</a>
 
 <br>
 
