@@ -2,7 +2,7 @@
 
 ✨ **Glad to see you here**
 
-I'm a 17 years old student living in Germany. I'm a passionate learner who's always willing to learn and work across
+I'm a 18 years old student living in Germany. I'm a passionate learner who's always willing to learn and work across
 programming. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also
 love to guide and mentor newbies. I'm currently into Frontend & Backend development. I mainly develop in Typescript and Java.
 My favorite framework regarding Frontend is React in combination with Next.JS and MongoDB is my goto Database.
