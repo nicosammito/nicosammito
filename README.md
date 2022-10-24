@@ -7,7 +7,13 @@ programming. I love to explore new technologies and leverage them to solve real-
 love to guide and mentor newbies. I'm currently into Frontend & Backend development. I mainly develop in Typescript and Java.
 My favorite framework regarding Frontend is React in combination with Next.JS and MongoDB is my goto Database.
 
-<br>
+<br/>
+
+✨ **Coding Activity (WakaTime)**
+
+<img src="https://wakatime.com/share/@nicosammito/f8d96126-7b10-4371-8ad1-f5c228f6855a.png"/>
+
+<br/>
 
 ✨ **Conntact me**
 
