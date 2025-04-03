@@ -15,7 +15,7 @@ My favorite framework regarding Frontend is React in combination with Next.JS an
 
 <br/>
 
-✨ **Conntact me**
+✨ **Contact me**
 
 <a href="https://github.com/nicosammito"><img src="https://img.shields.io/badge/-Github-blue?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://discord.com/users/456437986238791701"><img src="https://img.shields.io/badge/-discord-blue?style=for-the-badge&logo=discord&logoColor=white"/></a> <a href="https://www.instagram.com/nico_sammito/"><img src="https://img.shields.io/badge/-instagram-blue?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
