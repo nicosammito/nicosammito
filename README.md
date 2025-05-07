@@ -76,11 +76,11 @@ My favorite framework regarding Frontend is React in combination with Next.JS an
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     6 hrs 21 mins   ████████████████████████░   96.07 %
-XML            11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-CSS            3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Image (svg)    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript    7 hrs 34 mins   █████████████████████▒░░░   85.38 %
+Java          1 hr 3 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
+JSON          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+CSS           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Text          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
